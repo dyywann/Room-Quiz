@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_id_hint">Please input student id</string>
+    <string name="input_name_hint">Please input student name</string>
+    <string name="add_button_label">Add</string>
+    <string name="edit_button_label">Edit</string>
+</resources>
